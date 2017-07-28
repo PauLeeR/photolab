@@ -1,0 +1,19 @@
+{
+  "name": "photolab",
+  "version": "1.0.0",
+  "description": "Ejercicio evaluado Gulp \"Photolab\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauLeeR/photolab.git"
+  },
+  "author": "PauLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauLeeR/photolab/issues"
+  },
+  "homepage": "https://github.com/PauLeeR/photolab#readme"
+}
